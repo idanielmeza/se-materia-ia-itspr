@@ -1,0 +1,107 @@
+{
+  "sistemas": [
+    "Te llama la atención programar?",
+    "Te gustaría crear aplicaciones?",
+    "Te gustaría crear páginas web?",
+    "Te llama la atención crear bases de datos?",
+    "Te gusta la parte de crear redes de computadoras?"
+  ],
+  "geociencias": [
+    "Te gustaría estudiar piedras y rocas?",
+    "Te gustaría conocer sobre la clasificación de la piedras?",
+    "Te interesa saber sobre los procesos de la tierra?",
+    "Te llama la atención saber cómo se originan los terremotos?",
+    "Te gustaría estudiar las placas tectónicas de la tierra?"
+  ],
+  "contabilidad": [
+    "Te llama la atención el hacer cuentas sobre los gastos y ventas de una empresa?",
+    "Te llama la atención el estudiar como hacer las finanzas de una empresa? ",
+    "Sabes idear estrategias que puedan mejorar el rendimiento de gastos de una empresa?",
+    "Sabes trabajar bajo presión?",
+    "Tienes la capacidad para tomar decisiones ya sean urgentes o a largo plazo?"
+  ],
+  "electromecanica": [
+    "Te llama la atención el automatizar procesos productivos?",
+    "Te interesa el hacerle mantenimiento a maquinarias electromecánicas?",
+    "Te gustaría saber técnicas de manejo de computadoras en la industria?",
+    "Te llama la atención el mantener y supervisar obras, servicios y productos electromecánicos ?",
+    "Te es interesante el saber sobre cierto componentes electromecánicos?"
+  ],
+  "mecatronica": [
+    "Te llama la atención hacer robots?",
+
+    "Te gusta la mecánica y electrónica?",
+
+    "Te interesa hacer dibujos de piezas o máquinas a computadora?",
+
+    "Te llama la atención hacer simulaciones de funcionamiento de aparatos?",
+
+    "Te interesa hacer máquinas para el día a día?"
+  ],
+  "nanotecnologia": [
+    "Tienes conocimientos en química?",
+
+    "Te interesa conocer métodos de separación de partículas y materiales?",
+
+    "Sabes los datos de la tabla periódica?",
+
+    "Sabes balancear reacciones?",
+
+    "Tienes conocimiento en nanopartículas?"
+  ],
+  "electronica": [
+    "Tienes conocimientos en circuitos?",
+
+    "Conoces sobre los materiales termo conductores?",
+
+    "Conoces las medidas/valores de energía?",
+
+    "Te interesa el ensamble de placas de circuitos?",
+
+    "Te llama la atención el electromagnetismo?"
+  ],
+  "industrial": [
+    "Te llama la atención la industria?",
+
+    "Te gustaría realizar un buen liderazgo para dirigir los procesos de una empresa? ",
+
+    "Te agrada la implementación de estrategias?",
+
+    "Te llama la atención la producción, la administración, las finanzas y la economía?",
+
+    "Te gustaría entender la demanda del producto o servicio para diseñar los modelos, desglosar los materiales y generar los pedidos de materia prima y todo esto pensando en la optimización de la producción?"
+  ],
+  "gestionempresarial": [
+    "Te gustaría aprender a gestionar una empresa?",
+
+    "Te gusta la administración?",
+
+    "Te gustaría diseñar y emprender en un negocio sustentable en el mercado competitivo? ",
+
+    "Te gustaría diseñar e implementar estrategias competitivas de mercadotecnia?",
+
+    "Te gustaría especializarte en la área empresarial?"
+  ],
+  "renovables": [
+    "Te gustaría trabajar en la producción de energías limpias y renovables?",
+
+    "Te gustaría proponer tecnologías innovadoras que aprovechan recursos energéticos renovables?",
+
+    "Te gustaría saber cómo funciona un panel solar?",
+
+    "Te gustaría elaborar proyectos de evaluación de calidad y ahorro de energía eléctrica?",
+
+    "Te gustaría innovar en n tecnología relacionadas con el aprovechamiento de recursos energéticos renovables?"
+  ],
+  "petrolera": [
+    "Te gustaría conocer la producción y el tratamiento del petróleo? ",
+
+    "Te gustaría diseñar y gestionar proyectos de ingeniería petrolera? Para optimizar los recursos humanos?",
+
+    "Te llama la atención dar mantenimiento a la instalaciones petroleras? ",
+
+    "Te interesa el saber como se extrae el petróleo?",
+
+    "Te gustaría desarrollar métodos y técnicas para explotar racionalmente los yacimientos de hidrocarburos?"
+  ]
+}
