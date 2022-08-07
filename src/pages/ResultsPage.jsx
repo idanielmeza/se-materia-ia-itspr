@@ -7,10 +7,11 @@ const ResultsPage = ({results}) => {
     const resultados = Object.keys(results).sort((a, b) => results[b] - results[a]);
     const resultadosOrdenados = resultados.map(resultado => {
         return {
-            resultado: resultado,
+            resultado,
             valor: results[resultado]
         }
     }).sort((a, b) => b.valor - a.valor);
+
 
     return (
         <>

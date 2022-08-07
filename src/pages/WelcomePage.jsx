@@ -1,12 +1,15 @@
 import {Link} from 'react-router-dom';
 import NavBar from '../components/Navbar';
 import Footer from '../components/Footer';
+import Logo from '../assets/logo.png';
 
 export default function WelcomePage () {
   return (
     <>
     <NavBar/>
+    <img src={Logo} alt='logo' className='absolute w-full h-fit mx-auto ' style={{'z-index': '-1'}}/>
     <div className='w-11/12 mx-auto bg-white rounded-lg shadow-md p-4 h-fit m-40'>
+      
       <div className='flex flex-col justify-center items-center'>
         <p className='font-bold text-xl my-5'>Bienvenido al test para seleccion de carrera del itspr</p>
         <p className='font-bold text-3xl my-5 text-red-900'>Angel Daniel Lope San Martin NO HIZO NADA REPRUEBENLO</p>
