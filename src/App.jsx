@@ -11,9 +11,9 @@ const App = () => {
     const [questions, setQuestions] = useState(randomQuestions());
     const [currentQuestion, setCurrentQuestion] = useState(0);
     const [results, setResults] = useState({
-        sistemas: 1,
-        geociencias: 2,
-        contabilidad: 3,
+        sistemas: 0,
+        geociencias: 0,
+        contabilidad: 0,
         electromecanica: 0,
         mecatronica: 0,
         nanotecnologia: 0,

@@ -20,6 +20,7 @@ const ResultsPage = ({results}) => {
                 <div className='flex flex-col justify-center items-center'>
                     <p className='font-bold text-center'>
                         ¡Felicidades! tu mejor opcion es: <span className='font-bold text-xl text-red-800 uppercase'>{resultadosOrdenados[0].resultado}</span>
+                        {resultadosOrdenados[0].resultado === 'industrial' && ' (mejor date de baja de la vida no sirves para nada)'}
                     </p>
                     <div className='w-full h-52 overflow-y-auto'>
                     <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400 mx-auto rounded-md mt-2 ">
